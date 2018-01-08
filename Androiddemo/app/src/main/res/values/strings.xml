@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">测试demo</string>
+
+
+    <string name="sunday_text">周日</string>
+    <string name="monday_text">周一</string>
+    <string name="tuesday_text">周二</string>
+    <string name="wednesday_text">周三</string>
+    <string name="thursday_text">周四</string>
+    <string name="friday_text">周五</string>
+    <string name="saturday_text">周六</string>
+    <string name="cancel">取消</string>
+
+</resources>
